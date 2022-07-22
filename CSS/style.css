@@ -1,0 +1,23 @@
+/*
+
+ex.
+
+element {
+    modifications
+}
+
+*/
+
+h4{
+    color: blue;
+    border: 1px solid black;
+}
+
+.border_red{ /* class */
+    border: 2px dotted red;
+}
+
+
+#p{ /* id */
+
+}
